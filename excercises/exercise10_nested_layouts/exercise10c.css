@@ -1,0 +1,76 @@
+.contentContainer {
+    display: block;
+    width: 700px;
+    height: 700px;
+}
+div {
+    display: inline-block;
+}
+img {
+    object-fit: fill;
+    width: 300px;
+    height: 120px;
+}
+p {
+    font-family: Roboto;
+    display: inline-block;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.infocontainer {
+    width: 350px;
+    height: 120px;
+    vertical-align: top;
+    margin-left: 5px;
+}
+
+.videotitlecontainer {
+    width: 350px;
+    height: 50px;
+}
+.videotitle {
+    color: rgb(0, 0, 0);
+    margin-top: 0px;
+    width: 350px;
+    height: 50px;
+    font-weight: bold;
+    line-height: 25px;
+    margin-bottom: 0px;
+}
+
+.videocreatorcontainer {
+    width: 350px;
+    height: 20px;
+    margin-top: 10px;
+}
+.creator {
+    font-size: 14px;
+    color: rgb(122, 122, 122);
+}
+.viewstats {
+    font-size: 14px;
+    color: rgb(122, 122, 122);
+}
+.seperator {
+    font-size: 14px;
+    color: rgb(122, 122, 122);
+}
+.dateandtime {
+    font-size: 14px;
+    color: rgb(122, 122, 122);
+}
+.firstContent {
+    width: 700;
+    height: 120px;
+
+}
+.imageContent1 {
+    height: 120px;
+    width: 300px;
+}
+.firstContent,
+.secondContent,
+.thirdContent {
+    margin-bottom: 10px;
+}

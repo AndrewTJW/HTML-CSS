@@ -1,0 +1,30 @@
+h1 {
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+}
+h2 {
+    color: white;
+    background-color: rgb(79, 79, 255);
+    border: None;
+    border-radius: 20px;
+    font-family: Roboto;
+    font-size: 14px;
+    padding-right: 12px;
+    padding-left: 12px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.container {
+    border: solid;
+    border-color: rgba(190, 190, 190, 0.5);
+    border-width: 2px;
+    width: 300px;
+    border-radius: 6px;
+}
+.container-content {
+    margin-left: 10px;
+}
+.container-notification {
+    margin-right: 10px;
+}

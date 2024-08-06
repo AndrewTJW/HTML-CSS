@@ -1,0 +1,53 @@
+.container-img {
+    height: 50px;
+    width: 50px;
+}
+.container-userinfo {
+    margin-left: 10px;
+    display: grid;
+    grid-template-rows: 15px 15px 15px;
+    row-gap: 5px;
+    width: 100px;
+}
+.container-button {
+    margin-left: 200px;
+}
+img {
+    border-radius: 50px;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+h1 {
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: bold;
+    margin: 0;
+}
+h2 {
+    font-family: Arial;
+    font-size: 13px;
+    font-weight: 500;
+    color: rgb(137, 137, 137);
+    margin: 0;
+}
+h3 {
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: 500;
+    color: rgb(153, 153, 153);
+    margin: 0;
+}
+.button-follow {
+    border: None;
+    border-radius: 6px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-family: Arial;
+    font-size: 14px;
+    color: white;
+    background-color: rgb(68, 68, 255);
+    font-weight: bold;
+}
