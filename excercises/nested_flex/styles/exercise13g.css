@@ -32,6 +32,7 @@ p {
     font-family: Roboto;
     font-size: 10px;
     font-weight: normal;
+    width: 250px;
 }
 .container-user {
     display: flex;
@@ -51,4 +52,58 @@ h2 {
 }
 .tweet {
     height: 15px;
+    width: 250;
 }
+.container-lowersection {
+    display: flex;
+    flex-direction: row;
+    height: 70px;
+    width: 200px;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: grey;
+    margin-top: 10px;
+    margin-left: 37px;
+    overflow: hidden;
+}
+.leftsection2 {
+    width: 65px;
+    height: 75px;
+}
+.ytpiclink {
+    width: 100%;
+    height: 100%;
+    border-radius: 0;
+    object-fit: cover;
+}
+.rightsection2 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex: 1;
+    margin-left: 8px;
+}
+.ytvidname {
+    margin-bottom: 5px;
+}
+h3 {
+    margin: 0;
+    color: rgb(104, 104, 104);
+    font-family: Roboto;
+    font-size: 9px;
+    font-weight: normal;
+}
+.ytvideoinfo {
+    display: grid;
+    grid-template-rows: ;
+}
+.ytviddesc {
+    width: 40px;
+}
+.ytdesc {
+    font-size: 9px;
+    color: black;
+    width: 150px;
+}
+
