@@ -1,0 +1,54 @@
+.container-main {
+
+}
+.container-uppersection {
+    display: flex;
+    flex-direction: row;
+
+}
+img {
+    height: 30px;
+    width: 30px;
+    border-radius: 15px;
+}
+.pfp {
+    width: 30px;
+    height: 30px;
+}
+h1 {
+    margin: 0;
+    font-family: Roboto;
+    font-size: 10px;
+    font-weight: bold;
+    
+}
+.right-section {
+    display: grid;
+    grid-template-rows: 20px 20px;
+    margin-left: 8px;
+}
+p {
+    margin: 0;
+    font-family: Roboto;
+    font-size: 10px;
+    font-weight: normal;
+}
+.container-user {
+    display: flex;
+    flex-direction: row;
+    height: 15px;
+}
+h2 {
+    margin: 0;
+    font-family: Roboto;
+    font-size: 10px;
+    font-weight: normal;
+    color: rgb(102, 102, 102);
+}
+.usertag {
+    margin-left: 6px;
+    height: 15px;
+}
+.tweet {
+    height: 15px;
+}
