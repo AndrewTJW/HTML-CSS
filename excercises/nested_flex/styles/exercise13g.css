@@ -1,6 +1,4 @@
-.container-main {
 
-}
 .container-uppersection {
     display: flex;
     flex-direction: row;
@@ -96,7 +94,6 @@ h3 {
 }
 .ytvideoinfo {
     display: grid;
-    grid-template-rows: ;
 }
 .ytviddesc {
     width: 40px;
